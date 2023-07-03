@@ -1,3 +1,4 @@
+![eos-logo](https://github.com/p1r5/p1r5/assets/99807031/26f618ac-0633-4f20-9bed-7ebb03cacec2)
 ### Hi there 👋
 
 <!--
